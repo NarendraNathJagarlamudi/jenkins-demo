@@ -1,1 +1,1 @@
-print("this is to test if the scm is working or not")
+print("this is second attempt with commit 3")
